@@ -1,0 +1,10 @@
+.container-fluid{
+    display: flex;
+    justify-content: center;
+    background-image: radial-gradient( circle 710px at 50% 10.2%,  rgb(10, 10, 68) 0%, rgb(10, 10, 61) 7.5%, rgba(4,4,29,1) 44.7% );
+    height: 100%;
+    width: 100%;
+    position: fixed;
+  
+ 
+}
