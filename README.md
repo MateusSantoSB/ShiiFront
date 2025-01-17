@@ -29,7 +29,7 @@ The project is online at [ShiiFront](https://shiii.vercel.app/) with limitations
 
 ```npm install -g @angular/cli```
 
-### Pare rodar use na pasta raiz do projeto:
+### Para rodar use na pasta raiz do projeto:
 
 ```ng s```
 
