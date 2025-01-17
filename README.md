@@ -1,27 +1,39 @@
-# Shiii
+# Mateus dos santos 
+Full Stack Developer🖥️
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.8.
+ 
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Description
 
-## Code scaffolding
+ShiiFront é um projeto pessoal simples que consome o também projeto pessoal [ShiiApi](https://github.com/MateusSantoSB/ShiiApi). O objetivo é permitir que os usuários guardem "segredos" ou os "mostrem ao mundo" de forma totalmente anônima. Qualquer usuário pode postar segredos, somente inserindo seu segredo e um nome de usuário fictício.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Este projeto foi desenvolvido inteiramente utilizando o framework Angular 18.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+##
+ShiiFront is a simple personal project that consumes the also personal project [ShiiApi](https://github.com/MateusSantoSB/ShiiApi). Its goal is to allow users to store "secrets" or "share them with the world" in a completely anonymous way. Any user can post secrets by simply entering their secret and a fictional username.
 
-## Running unit tests
+This project was developed entirely using the Angular 18 framework.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+##  Technologies
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## Further help
+## Test
+### Instale o Angular 18
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+```npm install -g @angular/cli```
+
+### Pare rodar use na pasta raiz do projeto:
+
+```ng s```
+
+### O projeto ira rodar na porta ```4200```
+
