@@ -3,16 +3,17 @@
 
 ## Description
 
-ShiiFront é um projeto pessoal simples que consome o também projeto pessoal [ShiiApi](https://github.com/MateusSantoSB/ShiiApi). O objetivo é permitir que os usuários guardem "segredos" ou os "mostrem ao mundo" de forma totalmente anônima. Qualquer usuário pode postar segredos, somente inserindo seu segredo e um nome de usuário fictício.
+ShiiFront é um projeto pessoal simples que consome o também projeto pessoal [ShiiApi](https://github.com/MateusSantoSB/ShiiApi). O objetivo é permitir que os usuários guardem "segredos" e os "mostrem ao mundo" de forma totalmente anônima. Qualquer usuário pode postar segredos, somente inserindo seu segredo e um nome de usuário fictício.
 
 Este projeto foi desenvolvido inteiramente utilizando o framework Angular 18.
+O projeto esta online em [ShiiFront](https://shiii.vercel.app/) com limitações no primeiro request de aproximadamente 1min, pois utilizo a versão gratuita do render.com, onde atualmente esta localizada a api eo banco de dados utilizado no projeto.
 
 
 ##
-ShiiFront is a simple personal project that consumes the also personal project [ShiiApi](https://github.com/MateusSantoSB/ShiiApi). Its goal is to allow users to store "secrets" or "share them with the world" in a completely anonymous way. Any user can post secrets by simply entering their secret and a fictional username.
+ShiiFront is a simple personal project that consumes the also personal project [ShiiApi](https://github.com/MateusSantoSB/ShiiApi). Its goal is to allow users to store "secrets" and "share them with the world" in a completely anonymous way. Any user can post secrets by simply entering their secret and a fictional username.
 
 This project was developed entirely using the Angular 18 framework.
-
+The project is online at [ShiiFront](https://shiii.vercel.app/) with limitations on the first request of approximately 1 minute, as I am using the free version of render.com, where the API and the database used in the project are currently hosted.
 
 ##  Technologies
 
