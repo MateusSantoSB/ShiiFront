@@ -1,7 +1,4 @@
-# Mateus dos santos 
-Full Stack Developer🖥️
-
- 
+# ShiiFront
 
 
 ## Description
@@ -37,3 +34,14 @@ This project was developed entirely using the Angular 18 framework.
 
 ### O projeto ira rodar na porta ```4200```
 
+
+##
+
+### Install Angular 18
+```npm install -g @angular/cli```
+
+### To run use in the project root folder:
+```ng s```
+
+
+### The project will run on localhost ```4200```
