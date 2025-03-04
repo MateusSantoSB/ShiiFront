@@ -15,6 +15,16 @@ ShiiFront is a simple personal project that consumes the also personal project [
 This project was developed entirely using the Angular 18 framework.
 The project is online at [ShiiFront](https://shiii.vercel.app/) with limitations on the first request of approximately 1 minute, as I am using the free version of render.com, where the API and the database used in the project are currently hosted.
 
+##
+
+![imagem projeto](https://i.postimg.cc/hv6fjJX0/shiiApi.png)
+
+![imagem projeto2](https://i.postimg.cc/0jbzPGyQ/shiApi2.png)
+
+
+
+##
+
 ##  Technologies
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
