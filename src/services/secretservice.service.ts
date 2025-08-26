@@ -15,11 +15,11 @@ export class SecretserviceService {
 
 
   save(secrets:Secrets):Observable<any>{
-    return this.http.post<any>("https://shiithesecret-api.onrender.com/shii/secret",secrets)
+    return this.http.post<any>("https://lost-rasla-mateussantos-70e95e30.koyeb.app/shii/secret",secrets)
 }
 
   search():Observable<Secrets>{
-  return  this.http.get<Secrets>("https://shiithesecret-api.onrender.com/shii/secret")
+  return  this.http.get<Secrets>("https://lost-rasla-mateussantos-70e95e30.koyeb.app/shii/secret")
 }
 
 
