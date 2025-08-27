@@ -31,10 +31,9 @@ user:string=""
 
 errorMsg:string[]
 savedMsg:string
-
+loading:boolean=false
 
 ngOnInit(){
-
 this.find();
 this.verifiErrors();
 
@@ -79,13 +78,25 @@ this.savedMsg='Your secret is saved!!'
 
 
 find(){
-  this.service.search().subscribe(respo=>{
-    this.secret=respo.secret
-    this.user=respo.user
-},error=>{
-    console.log("Erro no secrets available")
+    this.loading=true
+
+  
+
+  
+  this.service.search().subscribe({
+    next:(respo)=>{
+        this.secret=respo.secret
+        this.user=respo.user 
+        this.loading=false 
+    },
+    error:()=>{
+        console.log("Erro no secrets available")
+        this.loading=false
+    }
 })
+
 }
+
 
 
 
